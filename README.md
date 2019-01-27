@@ -16,7 +16,7 @@ Improvements for next Version:
 
 //Firstly, the checkWin function unecessarily loops through everything we can easily prune the number of loops in accordance with a winnning game state
 
-//Secondly, main.cpp should not have you gameplay this should be its own function
+//Secondly, main.cpp should not have your gameplay this should be its own function
 
 //Finally, use recursion to play the best possible move. The flaw is AI can only see one move ahead and it prioritizes threat over attack recusrion will ensure best play everytime
 
